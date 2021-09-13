@@ -1,0 +1,46 @@
+.company {
+  justify-content: flex-start;
+  font-size: 21px;
+  line-height: 200%;
+  color: #000080;
+  margin-bottom: 400px;
+}
+
+.company__info {
+  display: flex;
+  justify-content: flex-end;
+  line-height: 200%;
+}
+
+.company__info1 {
+  width: 100px;
+  color: #000080;
+}
+
+.content {
+  display: inline-block;
+  width: 68%;
+  height: 170px;
+  background-color: #00008B;
+}
+
+.relaitive__img {
+  background-image: url(img/firstview.jpeg);
+  width: 57%;
+  height: 500px;
+  margin: 0px 0px 0px 100px auto;
+  position: absolute;
+  top: 120px;
+  right: 0;
+}
+
+.coment {
+  font-size: 50px;
+  bottom: 180px;
+}
+
+.parent {
+  display: flex;
+  width: 100vw;
+  justify-content: space-between;
+}
